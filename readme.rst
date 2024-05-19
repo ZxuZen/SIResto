@@ -7,5 +7,5 @@ Aplikasi ini dibuat untuk memenuhi project akhir Mata Kuliah Pemrograman Web ole
 
 - Kelvin Dwi Pranata S        (22050974085)
 - Mahbubi                     (22050974098)
-- Riski Surya Permana         (22050974091)
-- Achmad Marwan Taufiq        (22050974106)
+- Riski Surya Permana         (22050974118)
+- Achmad Marwan Taufiq        (22050974120)
