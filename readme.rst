@@ -1,8 +1,7 @@
 ![Poster 1]()
 
 
-Aplikasi mobile Learning Management System "SiPandu" adalah sebuah solusi
-perangkat lunak yang dirancang khusus untuk memfasilitasi pembelajaran bahasa pemrograman secara efisien dan interaktif. Dengan antarmuka yang responsif dan ramah pengguna, aplikasi ini memberikan pengalaman belajar yang menyenangkan dan mudah diakses, memungkinkan pengguna untuk mengembangkan keterampilan pemrograman dengan lebih baik.
+"SIResto" adalah sebuah sistem informasi yang dirancang khusus untuk membantu manajemen dan operasional sebuah restoran. Dikembangkan dengan menggunakan konsep pemrograman web, aplikasi ini menyediakan berbagai fitur yang memudahkan pengguna dalam mengelola berbagai aspek yang terkait dengan restoran, mulai dari manajemen menu hingga pengelolaan pesanan.
 
 Aplikasi ini dibuat untuk memenuhi project akhir Mata Kuliah Pemrograman Web oleh Kelompok 9 [Program Studi S1 Pendidikan Teknologi Informasi 2022](https://pendidikan-ti.ft.unesa.ac.id) [Fakultas Teknik](https://ft.unesa.ac.id) [Universitas Negeri Surabaya](https://www.unesa.ac.id/) yang beranggotakan :
 
