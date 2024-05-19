@@ -1,4 +1,4 @@
-![](https://github.com/KelvinDWI/SiPandu2/assets/115910709/79ac5812-a6c0-471a-af18-b67b35013e92)
+![Poster 1]()
 
 
 Aplikasi mobile Learning Management System "SiPandu" adalah sebuah solusi
