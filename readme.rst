@@ -1,4 +1,4 @@
-![Kuning_putih_kreatif_minimalis_aplikasi_seluler_baru_promosi_poster](https://github.com/KelvinDWI/SIResto/assets/167598127/ab779933-e107-429f-bd81-a384c11d09cd)
+![poster](https://github.com/KelvinDWI/SIResto/assets/115910709/05a68226-a509-438e-8778-b9c584e403a2)
 
 "SIResto" adalah sebuah sistem informasi yang dirancang khusus untuk membantu manajemen dan operasional sebuah restoran. Dikembangkan dengan menggunakan konsep pemrograman web, aplikasi ini menyediakan berbagai fitur yang memudahkan pengguna dalam mengelola berbagai aspek yang terkait dengan restoran, mulai dari manajemen menu hingga pengelolaan pesanan.
 
