@@ -1,4 +1,4 @@
-![Poster 1](![screenshot-2024-01-21-17-49-47-77-1c337646f29875672b5a61192b9010f9-df891b6ab17e7a09f63581bd27b557eb]
+![screenshot-2024-01-21-17-49-47-77-1c337646f29875672b5a61192b9010f9-df891b6ab17e7a09f63581bd27b557eb]
 
 
 "SIResto" adalah sebuah sistem informasi yang dirancang khusus untuk membantu manajemen dan operasional sebuah restoran. Dikembangkan dengan menggunakan konsep pemrograman web, aplikasi ini menyediakan berbagai fitur yang memudahkan pengguna dalam mengelola berbagai aspek yang terkait dengan restoran, mulai dari manajemen menu hingga pengelolaan pesanan.
